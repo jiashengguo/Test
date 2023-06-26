@@ -1,6 +1,9 @@
 <div align="center">
     <a href="https://zenstack.dev">
+    <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://zenstack.dev/img/logo-dark.png">
     <img src="https://avatars.githubusercontent.com/u/112816799" height="128">
+    </picture>
     </a>
     <h1>ZenStack</h1>
     <a href="https://www.npmjs.com/package/zenstack">
